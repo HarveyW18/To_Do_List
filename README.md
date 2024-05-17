@@ -43,9 +43,10 @@ TO-DO-LIST-MAIN/
 ## Installation et Configuration
 
 1. **Cloner le Dépôt** :
-   ```bash
-   git clone https://github.com/votre-utilisateur/to-do-list.git
-   cd to-do-list
+```bash
+git clone https://github.com/votre-utilisateur/to-do-list.git
+cd to-do-list
+```
 
 2. **Créer et Activer un Environnement Virtuel** :
 ```bash
