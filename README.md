@@ -48,14 +48,19 @@ TO-DO-LIST-MAIN/
    cd to-do-list
 
 2. **Créer et Activer un Environnement Virtuel** :
+```bash
 python -m venv venv
 source venv/bin/activate  # Pour Windows utilisez `venv\Scripts\activate`
+```
 
 3. **Installer les Dépendances** :
+```bash
 pip install -r requirements.txt
-
+```
 4. **Lancer l'Application** :
+```bash
 flask run
+```
 
 ## Utilisation
 Accédez à l'application via votre navigateur à l'adresse ```http://127.0.0.1:5000/```.
